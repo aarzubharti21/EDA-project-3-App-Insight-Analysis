@@ -1,7 +1,6 @@
 # 📱 Google Play Store App Insight Analysis
 
-[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)]()
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue?logo=kaggle)](https://www.kaggle.com/code/aarzukashyap/eda-project-3-app-insight-analysis)
+https://www.kaggle.com/code/aarzukashyap/eda-project-3-app-insight-analysis
 
 ## 📌 Project Overview
 
