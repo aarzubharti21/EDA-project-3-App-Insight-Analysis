@@ -1,4 +1,12 @@
-Google Play Store App Insight Analysis
+# 📱 Google Play Store App Insight Analysis
+
+[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)]()
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)]()
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue?logo=kaggle)](https://www.kaggle.com/code/aarzukashyap/eda-project-3-app-insight-analysis)
+
+## 📌 Project Overview
+
+This project performs Exploratory Data Analysis (EDA) on Google Play Store application data to identify trends in ratings, installs, reviews, categories, and user engagement.
 📌 Project Overview
 
 This project performs an Exploratory Data Analysis (EDA) on the Google Play Store dataset to uncover patterns, trends, and insights that influence app performance in the Android marketplace.
