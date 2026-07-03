@@ -1,4 +1,4 @@
-# 📱 Google Play Store App Insight Analysis
+#  Google Play Store App Insight Analysis
 
 https://www.kaggle.com/code/aarzukashyap/eda-project-3-app-insight-analysis
 
