@@ -1,6 +1,7 @@
 ## Google Play Store App Insight Analysis
-## https://www.kaggle.com/code/aarzukashyap/eda-project-3-app-insight-analysis
-Exploratory Data Analysis using Python
+https://www.kaggle.com/code/aarzukashyap/eda-project-3-app-insight-analysis
+
+## Exploratory Data Analysis using Python
 
 # Project Overview
 The Google Play Store hosts millions of mobile applications across diverse categories, making it one of the largest digital marketplaces in the world. Every application generates valuable information such as ratings, downloads, reviews, pricing, content classification, and category distribution. Analyzing this information enables developers, business analysts, marketers, and product managers to understand user preferences, identify market opportunities, and make informed business decisions.
