@@ -1,4 +1,5 @@
-# Google Play Store App Insight Analysis
+# Google Play Store App Insight Analysis EDA
+
 https://www.kaggle.com/code/aarzukashyap/eda-project-3-app-insight-analysis
 
 ## Exploratory Data Analysis using Python
@@ -14,44 +15,46 @@ The objective of this project is to demonstrate practical data analysis skills b
 The Google Play Store contains thousands of applications competing across multiple categories. Developers often struggle to understand the factors that contribute to application success, user engagement, and market visibility.
 
 Important business questions include:
-Which app categories dominate the Play Store?
 
-Which categories receive the highest ratings?
+*Which app categories dominate the Play Store?
 
-Do free applications receive more downloads than paid applications?
+*Which categories receive the highest ratings?
 
-How does pricing affect installations?
+*Do free applications receive more downloads than paid applications?
 
-Which content ratings are most common?
+*How does pricing affect installations?
 
-What relationship exists between reviews and ratings?
+*Which content ratings are most common?
 
-Which application categories offer the greatest market opportunity?
+*What relationship exists between reviews and ratings?
+
+*Which application categories offer the greatest market opportunity?
 
 This project answers these questions using exploratory data analysis techniques.
 
 # Project Objectives
+
 The primary objectives of this project are:
 
-Perform comprehensive exploratory data analysis.
+*Perform comprehensive exploratory data analysis.
 
-Clean and preprocess raw application data.
+*Clean and preprocess raw application data.
 
-Study app distribution across categories.
+*Study app distribution across categories.
 
-Analyze user ratings and reviews.
+*Analyze user ratings and reviews.
 
-Compare free and paid applications.
+*Compare free and paid applications.
 
-Evaluate installation trends.
+*Evaluate installation trends.
 
-Analyze pricing strategies.
+*Analyze pricing strategies.
 
-Understand content rating distribution.
+*Understand content rating distribution.
 
-Identify high-performing application categories.
+*Identify high-performing application categories.
 
-Visualize insights using Python.
+*Visualize insights using Python.
 
 # About the Dataset
 
@@ -62,120 +65,129 @@ The dataset includes application metadata such as category, rating, number of re
 It provides an excellent foundation for performing business-oriented exploratory data analysis and discovering trends within the mobile application ecosystem.
 
 # Dataset Overview
+
 **Dataset Size**: 10,841 Applications
+
 **Total Features**: 13 Columns
 
 The dataset includes the following attributes:
 
-Column	: Description
+**Column**	: Description
 
-App	: Application Name
+**App**	: Application Name
 
-Category	: App Category
+**Category**	: App Category
 
-Rating	: Average User Rating
+**Rating**	: Average User Rating
 
-Reviews	: Total Number of Reviews
+**Reviews**	: Total Number of Reviews
 
-Size	: Application Size
+**Size**	: Application Size
 
-Installs	: Number of Downloads
+**Installs**	: Number of Downloads
 
-Type	: Free or Paid
+**Type**	: Free or Paid
 
-Price	: Application Price
+**Price**	: Application Price
 
-Content Rating	: Target Audience Classification
+**Content Rating**	: Target Audience Classification
 
-Genres	: Application Genre
+**Genres**	: Application Genre
 
-Last Updated	: Last Update Date
+**Last Updated**	: Last Update Date
 
-Current Ver	 : Current Application Version
+**Current Ver**	 : Current Application Version
 
-Android Ver	: Minimum Android Version Required
+**Android Ver**	: Minimum Android Version Required
 
 # Exploratory Data Analysis Workflow
+
 The project follows a structured EDA workflow consisting of multiple stages.
 
-## Data Collection
+1.**Data Collection**
 The Google Play Store dataset is imported into a Kaggle Notebook.
 
-## Data Understanding
+2.**Data Understanding**
 The dataset structure is examined to understand feature types, data dimensions, and attribute meanings.
 
-## Data Cleaning
+3.**Data Cleaning**
+
 Several preprocessing techniques are applied, including:
 
-Handling missing values
+*Handling missing values
 
-Removing duplicate records
+*Removing duplicate records
 
-Cleaning installation counts
+*Cleaning installation counts
 
-Converting review counts into numeric format
+*Converting review counts into numeric format
 
-Formatting prices
+*Formatting prices
 
-Standardizing categorical values
+*Standardizing categorical values
 
-Handling inconsistent ratings
+*Handling inconsistent ratings
 
-## Data Transformation
+4.**Data Transformation**
+
 Additional transformations are performed to prepare the dataset for analysis.
 
-# Data Visualization
+5.**Data Visualization**
+
 Interactive and statistical visualizations are created to communicate findings effectively.
 
 # Business Questions Addressed
+
 The analysis answers several important business questions.
 
-**Category Analysis**
+1.**Category Analysis**
+
 Which app categories contain the highest number of applications?
 
 Which categories dominate the marketplace?
 
-**Rating Analysis**
+2.**Rating Analysis**
 
 Which categories receive the highest average ratings?
 
 What is the overall rating distribution?
 
-**Installation Analysis**
+3.**Installation Analysis**
 
 Which applications receive the highest number of installs?
 
 Which categories achieve maximum downloads?
 
-**Review Analysis**
+4.**Review Analysis**
 
 Which apps generate the largest number of customer reviews?
 
 Does review volume influence ratings?
 
-**Pricing Analysis**
+5.**Pricing Analysis**
 Comparison between Free and Paid Apps
 
 Distribution of application prices
 
 Impact of pricing on installations
 
-**Content Rating Analysis**
+6.**Content Rating Analysis**
 Distribution of apps across different content ratings
 
 Audience segmentation
 
-**Genre Analysis**
+7.**Genre Analysis**
 Most common application genres
 
 Genre popularity comparison
 
-**Update Analysis**
+8.**Update Analysis**
 Application update frequency
 
 Recently updated applications
 
 # Key Insights Generated
+
 The project uncovers multiple valuable insights.
 
 Distribution of applications across categories
@@ -195,7 +207,9 @@ Customer engagement indicators
 Android version compatibility trends
 
 ## Visualizations Included
+
 The notebook contains multiple visualizations to support analytical findings.
+
 Examples include:
 
 Category Distribution
@@ -227,6 +241,7 @@ Count Plots
 Bar Charts
 
 # Technologies Used
+
 The project was developed using:
 
 Python
@@ -244,6 +259,7 @@ Matplotlib
 Seaborn
 
 ## Python Libraries Used
+
 **Pandas** - Used for data loading, cleaning, manipulation, and aggregation.
 
 **NumPy** - Used for numerical computations.
@@ -253,7 +269,9 @@ Seaborn
 **Seaborn** - Used for statistical plotting and advanced visualization.
 
 # Data Cleaning Techniques
+
 The project demonstrates several important preprocessing techniques.
+
 These include:
 
 Missing value handling
@@ -271,6 +289,7 @@ Numeric conversion
 Feature formatting
 
 # Skills Demonstrated
+
 This project demonstrates practical experience in:
 
 Exploratory Data Analysis (EDA)
@@ -296,6 +315,7 @@ Data Storytelling
 Insight Generation
 
 # Learning Outcomes
+
 Through this project, I gained practical experience in:
 
 Performing end-to-end exploratory data analysis.
