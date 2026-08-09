@@ -2,15 +2,15 @@
 
 https://www.kaggle.com/code/aarzukashyap/eda-project-3-app-insight-analysis
 
-## Overview
+## Project Context
 
 I am highly enthusiastic to present the **Google Play Store App Insight Analysis**, an advanced **Exploratory Data Analysis (EDA)** project developed using **Python**. This project transforms raw Google Play Store application data into meaningful business insights by analyzing app categories, user ratings, reviews, installs, pricing models, and user sentiments. The analysis enables data-driven decision-making for developers, businesses, and digital marketers.
 
-## Problem Statement
+## Problem Objectives
 
 The primary objective of this project was to perform an end-to-end exploratory data analysis on the Google Play Store dataset to understand application performance and user behavior. With thousands of applications available across multiple categories, identifying factors influencing app popularity, ratings, downloads, and customer satisfaction becomes challenging. This project provides meaningful insights through data cleaning, visualization, and statistical analysis to uncover trends that drive application success.
 
-## Analysis Done
+## Analytical Approach
 
 > The file in which the analysis was performed is **EDA_Project_3_App_Insight_Analysis.ipynb**
 
@@ -32,7 +32,7 @@ A structured data preprocessing and analytical workflow was implemented to ensur
 
 - **Data Visualization:** Created informative charts and visualizations using Python libraries to communicate business insights effectively.
 
-## Dashboard 
+## Project Insights
 
 The final analysis provides comprehensive insights into application performance using visual exploration and statistical analysis.
 
